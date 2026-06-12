@@ -1,9 +1,0 @@
-surface,mode_tested,evidence_state,safe_public_summary,restriction
-model_picker,Extra High,documented,Mode exists as a selectable intelligence setting,Mode alone does not prove tool access
-apps_connectors,Extra High,documented,App availability may vary by model plan account and configuration,Probe every session
-web_lookup,Extra High,observed_read,Current public documentation lookup worked,Cite sourced claims
-document_sheet_surface,Extra High,observed_write,Additive holding-pen document and spreadsheet writes were possible,Do not overwrite canonical records without review
-mail_like_private_app,Extra High,observed_read,No-match harmless probe returned no private content,Do not inspect content unless explicitly tasked
-calendar_like_private_app,Extra High,observed_read,No-match harmless probe returned no private content,Use explicit time bounds and task justification
-contacts_like_private_app,Extra High,observed_read,No-match harmless probe returned no private content,Do not enumerate contacts unless needed
-code_repository_app,Extra High,observed_write,This public testcase file was written to a safe public repository,No secrets no private repo inventory no destructive writes
